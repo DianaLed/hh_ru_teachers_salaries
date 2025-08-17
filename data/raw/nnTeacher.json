@@ -1,0 +1,2650 @@
+{
+  "items": [
+    {
+      "id": "123756618",
+      "premium": false,
+      "name": "Педагог дополнительного образования для дошкольников",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 70000,
+        "to": 90000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 70000,
+        "to": 90000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "Автозаводская линия",
+        "building": "метро Заречная",
+        "lat": 56.285144,
+        "lng": 43.927528,
+        "description": null,
+        "raw": "Нижний Новгород, Автозаводская линия, метро Заречная",
+        "metro": {
+          "station_name": "Заречная",
+          "line_name": "Автозаводская",
+          "station_id": "50.282",
+          "line_id": "50",
+          "lat": 56.285144,
+          "lng": 43.927528
+        },
+        "metro_stations": [
+          {
+            "station_name": "Заречная",
+            "line_name": "Автозаводская",
+            "station_id": "50.282",
+            "line_id": "50",
+            "lat": 56.285144,
+            "lng": 43.927528
+          }
+        ],
+        "id": "5070542"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-07T15:52:15+0300",
+      "created_at": "2025-08-07T15:52:15+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123756618",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123756618?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123756618",
+      "relations": [],
+      "employer": {
+        "id": "5151001",
+        "name": "Детский центр АЗБУКА ДЕТСТВА",
+        "url": "https://api.hh.ru/employers/5151001",
+        "alternate_url": "https://hh.ru/employer/5151001",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1094816.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo/5999885.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/5999886.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5151001",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Ответственного и организованного человека. У Вас есть высшее образование, связанное с педагогикой (дошкольное образование, <highlighttext>учитель</highlighttext> русского языка и литературы, логопед...",
+        "responsibility": "Все необходимые пособия и материалы для работы. Всегда поддержка и помощь руководителя и команды. Досуговые мероприятия для сил и вдохновения..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123590703",
+      "premium": false,
+      "name": "Педагог-организатор (библиотека)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 50000,
+        "to": 50000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 50000,
+        "to": 50000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-04T12:19:15+0300",
+      "created_at": "2025-08-04T12:19:15+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123590703",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123590703?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123590703",
+      "relations": [],
+      "employer": {
+        "id": "5617162",
+        "name": "АНОО Школа 800",
+        "url": "https://api.hh.ru/employers/5617162",
+        "alternate_url": "https://hh.ru/employer/5617162",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1407153.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7248276.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7248277.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5617162",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Желательно с опытом работы <highlighttext>педагогом</highlighttext>-организатором, соц.педагогом, <highlighttext>педагогом</highlighttext> доп.образования, вожатым. С хорошо развитыми организаторскими навыками и навыками самоорганизации. ",
+        "responsibility": "Осуществлять информационно-библиографическую деятельность, обеспечивать свободный доступ к библиотечным ресурсам. Проводить информационную поддержку реализации образовательных программ общего образования и воспитания..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123750018",
+      "premium": false,
+      "name": "Преподаватель английского языка",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 55000,
+        "to": 70000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 55000,
+        "to": 70000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "улица Богдановича",
+        "building": "4к1",
+        "lat": 56.283869,
+        "lng": 44.07301,
+        "description": null,
+        "raw": "Нижний Новгород, улица Богдановича, 4к1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "15543732"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-07T14:08:51+0300",
+      "created_at": "2025-08-07T14:08:51+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123750018",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123750018?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123750018",
+      "relations": [],
+      "employer": {
+        "id": "2353708",
+        "name": "АНО ДО ШКОЛА АНГЛИЙСКОГО ЯЗЫКА ИНГЛИШ СКУЛ",
+        "url": "https://api.hh.ru/employers/2353708",
+        "alternate_url": "https://hh.ru/employer/2353708",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2353708",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Уровень владения языком НЕ НИЖЕ В2. Опыт работы желателен. Знание и опыт применения коммуникативной методики. Опыт работы с зарубежными...",
+        "responsibility": "Преподавание английского языка оффлайн (в группах и индивидуально). Полное ведение своих студентов: от оценивания прогресса до подготовки к мероприятиям школы. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно сменами по 4-6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_4",
+          "name": "4 часа"
+        },
+        {
+          "id": "HOURS_6",
+          "name": "6 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        },
+        {
+          "id": "FLEXIBLE",
+          "name": "Свободный"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123971253",
+      "premium": false,
+      "name": "Преподаватель по рисованию декоративно-прикладному искусству",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "улица Чаадаева",
+        "building": "17",
+        "lat": 56.331348,
+        "lng": 43.846365,
+        "description": null,
+        "raw": "Нижний Новгород, улица Чаадаева, 17",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5090138"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-12T15:30:58+0300",
+      "created_at": "2025-08-12T15:30:58+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123971253",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123971253?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123971253",
+      "relations": [],
+      "employer": {
+        "id": "4968003",
+        "name": "МАУК ДК ИМ. С.ОРДЖОНИКИДЗЕ",
+        "url": "https://api.hh.ru/employers/4968003",
+        "alternate_url": "https://hh.ru/employer/4968003",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/865961.jpg",
+          "90": "https://img.hhcdn.ru/employer-logo/3904719.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/3904720.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4968003",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Среднее или высшее профессиональное образование (культуры и искусства, педагогическое, хореографическое).",
+        "responsibility": "Руководит работой клубного формирования (кружка/студии). Ведет в коллективе творческую и учебно-воспитательную работу на основе утвержденного плана на творческий..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "124120140",
+      "premium": false,
+      "name": "Преподаватель иностранных языков",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 45000,
+        "to": 80000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 45000,
+        "to": 80000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "улица Энгельса",
+        "building": "3",
+        "lat": 56.343344,
+        "lng": 43.865786,
+        "description": null,
+        "raw": "Нижний Новгород, улица Энгельса, 3",
+        "metro": null,
+        "metro_stations": [],
+        "id": "3272495"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-15T16:15:53+0300",
+      "created_at": "2025-08-15T16:15:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124120140",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124120140?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124120140",
+      "relations": [],
+      "employer": {
+        "id": "4379934",
+        "name": "Нижегородский политехнический колледж им. Руднева А.П.",
+        "url": "https://api.hh.ru/employers/4379934",
+        "alternate_url": "https://hh.ru/employer/4379934",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4379934",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Требования к <highlighttext>преподавателю</highlighttext> иностранных языков: * Образование в области преподавания иностранных языков или смежных дисциплин. * Опыт работы <highlighttext>преподавателем</highlighttext> иностранного языка в...",
+        "responsibility": "Обязанности <highlighttext>преподавателя</highlighttext> иностранных языков: 1. Проведение занятий по иностранному языку для студентов разных уровней подготовки. 2. Использование и обновление учебных..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123635786",
+      "premium": false,
+      "name": "Учитель начальных классов",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 45000,
+        "to": 60000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 45000,
+        "to": 60000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-05T10:52:38+0300",
+      "created_at": "2025-08-05T10:52:38+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123635786",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123635786?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123635786",
+      "relations": [],
+      "employer": {
+        "id": "5302543",
+        "name": "МАОУ Школа № 178",
+        "url": "https://api.hh.ru/employers/5302543",
+        "alternate_url": "https://hh.ru/employer/5302543",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5302543",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Профильное образование, профессиональная переподготовка.",
+        "responsibility": "Преподавание предметов учебного плана в начальной школе. Отдельный кабинет, оборудованное рабочее место <highlighttext>учителя</highlighttext>, классное руководство, часы кружковой работы, по согласованию..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_5",
+          "name": "5 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123392668",
+      "premium": false,
+      "name": "Учитель начальных классов",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 70000,
+        "to": 85000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 70000,
+        "to": 85000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "Варварская улица",
+        "building": "40",
+        "lat": 56.320348,
+        "lng": 44.013829,
+        "description": null,
+        "raw": "Нижний Новгород, Варварская улица, 40",
+        "metro": null,
+        "metro_stations": [],
+        "id": "14077625"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T17:18:59+0300",
+      "created_at": "2025-07-29T17:18:59+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123392668",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123392668?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123392668",
+      "relations": [],
+      "employer": {
+        "id": "5378351",
+        "name": "Классная школа",
+        "url": "https://api.hh.ru/employers/5378351",
+        "alternate_url": "https://hh.ru/employer/5378351",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5378351",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Обучение по результативным методикам. - <highlighttext>Педагога</highlighttext> с высшим или средним образованием, готового к обучению и развитию. - Ответственного и активного человека с...",
+        "responsibility": null
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123940211",
+      "premium": false,
+      "name": "Учитель английского языка",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 60000,
+        "to": 80000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 60000,
+        "to": 80000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "улица Академика Сахарова",
+        "building": "113к1",
+        "lat": 56.262038,
+        "lng": 44.016245,
+        "description": null,
+        "raw": "Нижний Новгород, улица Академика Сахарова, 113к1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "681769"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-15T11:17:27+0300",
+      "created_at": "2025-08-15T11:17:27+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123940211",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123940211?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123940211",
+      "relations": [],
+      "employer": {
+        "id": "2463029",
+        "name": "ЧУ ДО Центр изучения английского языка Спик инглиш",
+        "url": "https://api.hh.ru/employers/2463029",
+        "alternate_url": "https://hh.ru/employer/2463029",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/346019.png",
+          "90": "https://img.hhcdn.ru/employer-logo/1826342.png",
+          "240": "https://img.hhcdn.ru/employer-logo/1826343.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2463029",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "1. Высшее лингвистическое или педагогическое образование. 2. Опыт работы. 3. Ответственный подход к выполнению обязанностей. 4. Опрятный внешний вид.",
+        "responsibility": "1. Подготовка и проведение индивидуальных и групповых занятий, внеклассных мероприятий. 2. Тестирование обучающихся."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно сменами по 4-6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_4",
+          "name": "4 часа"
+        },
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        },
+        {
+          "id": "FLEXIBLE",
+          "name": "По договорённости"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        },
+        {
+          "id": "WEEKEND",
+          "name": "По выходным"
+        },
+        {
+          "id": "FLEXIBLE",
+          "name": "Свободный"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "124040573",
+      "premium": false,
+      "name": "Педагог по подготовке к школе",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 40000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 40000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "улица Родионова",
+        "building": "193к2",
+        "lat": 56.303352,
+        "lng": 44.076477,
+        "description": null,
+        "raw": "Нижний Новгород, улица Родионова, 193к2",
+        "metro": null,
+        "metro_stations": [],
+        "id": "412617"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-14T09:30:17+0300",
+      "created_at": "2025-08-14T09:30:17+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124040573",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124040573?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124040573",
+      "relations": [],
+      "employer": {
+        "id": "1611187",
+        "name": "Школа семейного образования Гармония",
+        "url": "https://api.hh.ru/employers/1611187",
+        "alternate_url": "https://hh.ru/employer/1611187",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1611187",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее образование и опыт работы.",
+        "responsibility": "Проведение занятий с детьми дошкольного возраста по подготовке к школе (математика, чтение)."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно сменами по 4-6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_4",
+          "name": "4 часа"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123314575",
+      "premium": false,
+      "name": "Педагог по ИЗО и лепке",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 35000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 35000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "Гордеевская улица",
+        "building": "42А",
+        "lat": 56.329133,
+        "lng": 43.928974,
+        "description": null,
+        "raw": "Нижний Новгород, Гордеевская улица, 42А",
+        "metro": {
+          "station_name": "Канавинская",
+          "line_name": "Сормовская",
+          "station_id": "51.290",
+          "line_id": "51",
+          "lat": 56.320273,
+          "lng": 43.927438
+        },
+        "metro_stations": [
+          {
+            "station_name": "Канавинская",
+            "line_name": "Сормовская",
+            "station_id": "51.290",
+            "line_id": "51",
+            "lat": 56.320273,
+            "lng": 43.927438
+          }
+        ],
+        "id": "15178299"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T12:58:52+0300",
+      "created_at": "2025-07-28T12:58:52+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123314575",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123314575?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123314575",
+      "relations": [],
+      "employer": {
+        "id": "10659613",
+        "name": "Мотина Наталия Александровна",
+        "url": "https://api.hh.ru/employers/10659613",
+        "alternate_url": "https://hh.ru/employer/10659613",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10659613",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "опыт работы с детьми от 1 года. -наличие портфолио работ учеников. -любовь к детям и их родителям.",
+        "responsibility": "поведение занятий по лепке и рисованию по возрастным подгруппам."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123451045",
+      "premium": false,
+      "name": "Учитель английского языка",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 50000,
+        "to": 115000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 50000,
+        "to": 115000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "Сормовско-Мещерская линия",
+        "building": "метро Буревестник",
+        "lat": 56.333285,
+        "lng": 43.894811,
+        "description": null,
+        "raw": "Нижний Новгород, Сормовско-Мещерская линия, метро Буревестник",
+        "metro": {
+          "station_name": "Буревестник",
+          "line_name": "Сормовская",
+          "station_id": "51.292",
+          "line_id": "51",
+          "lat": 56.333834,
+          "lng": 43.892799
+        },
+        "metro_stations": [
+          {
+            "station_name": "Буревестник",
+            "line_name": "Сормовская",
+            "station_id": "51.292",
+            "line_id": "51",
+            "lat": 56.333834,
+            "lng": 43.892799
+          }
+        ],
+        "id": "15443048"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-31T09:21:31+0300",
+      "created_at": "2025-07-31T09:21:31+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123451045",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123451045?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123451045",
+      "relations": [],
+      "employer": {
+        "id": "5617162",
+        "name": "АНОО Школа 800",
+        "url": "https://api.hh.ru/employers/5617162",
+        "alternate_url": "https://hh.ru/employer/5617162",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1407153.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7248276.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7248277.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5617162",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "С профильным педагогическим образованием или образованием в области, соответствующей преподаваемому предмету. Разделяющего основные ценности Школы 800: достоинство, открытость и осознанный...",
+        "responsibility": "Проводить увлекательные образовательные уроки, вдохновляя учеников на обучение. Разрабатывать и реализовывать учебные планы, учитывая индивидуальные потребности учеников. Оценивать учебные достижения..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123891941",
+      "premium": false,
+      "name": "Преподаватель английского языка",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 50000,
+        "to": 68000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 50000,
+        "to": 68000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-11T12:00:23+0300",
+      "created_at": "2025-08-11T12:00:23+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123891941",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123891941?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123891941",
+      "relations": [],
+      "employer": {
+        "id": "95194",
+        "name": "ЧУ ДО ЭМС Мастеркласс",
+        "url": "https://api.hh.ru/employers/95194",
+        "alternate_url": "https://hh.ru/employer/95194",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/210776.gif",
+          "90": "https://img.hhcdn.ru/employer-logo/331031.png",
+          "240": "https://img.hhcdn.ru/employer-logo/403888.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=95194",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Четыре современные школы в верхней части города, работающие по лицензии Министерства образования. Ответственный, харизматичный <highlighttext>преподаватель</highlighttext> с профильным образованием и уровнем...",
+        "responsibility": "Работать в русле современной методики с различными категориями учащихся (дети, подростки, взрослые, экзаменационные и корпоративные курсы). Активно расти профессионально. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        },
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123929832",
+      "premium": false,
+      "name": "Педагог дополнительного образования (ИЗО, творчество)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 35000,
+        "to": 45000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 35000,
+        "to": 45000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "MONTHLY",
+          "name": "Раз в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "Краснозвёздная улица",
+        "building": "2",
+        "lat": 56.287966,
+        "lng": 43.982945,
+        "description": null,
+        "raw": "Нижний Новгород, Краснозвёздная улица, 2",
+        "metro": null,
+        "metro_stations": [],
+        "id": "19012896"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-12T09:07:28+0300",
+      "created_at": "2025-08-12T09:07:28+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123929832",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123929832?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123929832",
+      "relations": [],
+      "employer": {
+        "id": "3967676",
+        "name": "ЧУДО Сёма",
+        "url": "https://api.hh.ru/employers/3967676",
+        "alternate_url": "https://hh.ru/employer/3967676",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3967676",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы по профессии.",
+        "responsibility": null
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно сменами по 4-6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_4",
+          "name": "4 часа"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FLEXIBLE",
+          "name": "Свободный"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123029431",
+      "premium": false,
+      "name": "Социальный педагог",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 50000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 50000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-21T09:56:35+0300",
+      "created_at": "2025-07-21T09:56:35+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123029431",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123029431?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123029431",
+      "relations": [],
+      "employer": {
+        "id": "5617162",
+        "name": "АНОО Школа 800",
+        "url": "https://api.hh.ru/employers/5617162",
+        "alternate_url": "https://hh.ru/employer/5617162",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1407153.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7248276.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7248277.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5617162",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее профессиональное образование или среднее профессиональное образование по направлениям подготовки \"Образование и педагогика\", \"Социальная педагогика\". Уместно использующего психолого-педагогические технологии. ",
+        "responsibility": "Выполнять и разрабатывать методические материалы для реализации программ и мероприятий по социально-педагогической поддержке обучающихся. Участвовать в осуществлении мониторинга систем..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123164792",
+      "premium": false,
+      "name": "Педагог-воспитатель в группу продленного дня",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 40000,
+        "to": 50000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 40000,
+        "to": 50000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "Южное шоссе",
+        "building": "43",
+        "lat": 56.230252,
+        "lng": 43.870691,
+        "description": null,
+        "raw": "Нижний Новгород, Южное шоссе, 43",
+        "metro": {
+          "station_name": "Автозаводская",
+          "line_name": "Автозаводская",
+          "station_id": "50.285",
+          "line_id": "50",
+          "lat": 56.257243,
+          "lng": 43.902357
+        },
+        "metro_stations": [
+          {
+            "station_name": "Автозаводская",
+            "line_name": "Автозаводская",
+            "station_id": "50.285",
+            "line_id": "50",
+            "lat": 56.257243,
+            "lng": 43.902357
+          },
+          {
+            "station_name": "Кировская",
+            "line_name": "Автозаводская",
+            "station_id": "50.287",
+            "line_id": "50",
+            "lat": 56.247426,
+            "lng": 43.876719
+          },
+          {
+            "station_name": "Комсомольская",
+            "line_name": "Автозаводская",
+            "station_id": "50.286",
+            "line_id": "50",
+            "lat": 56.252662,
+            "lng": 43.889888
+          },
+          {
+            "station_name": "Парк Культуры",
+            "line_name": "Автозаводская",
+            "station_id": "50.288",
+            "line_id": "50",
+            "lat": 56.242034,
+            "lng": 43.85816
+          }
+        ],
+        "id": "18824143"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T17:57:13+0300",
+      "created_at": "2025-07-23T17:57:13+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123164792",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123164792?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123164792",
+      "relations": [],
+      "employer": {
+        "id": "12033866",
+        "name": "Измайлов Александр Александрович",
+        "url": "https://api.hh.ru/employers/12033866",
+        "alternate_url": "https://hh.ru/employer/12033866",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12033866",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы с детьми от 1 до 3 лет. Педагогическое образование или опыт работы в сфере образования. Умение находить подход...",
+        "responsibility": "Организация досуга детей: проведение развивающих и творческих занятий. Обеспечение безопасности и присмотра за детьми во время их пребывания в группе. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_7",
+          "name": "7 часов"
+        },
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123674614",
+      "premium": false,
+      "name": "Педагог дополнительного образования",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 45000,
+        "to": 60000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 45000,
+        "to": 60000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "Деловая улица",
+        "building": "22",
+        "lat": 56.305229,
+        "lng": 44.075696,
+        "description": null,
+        "raw": "Нижний Новгород, Деловая улица, 22",
+        "metro": {
+          "station_name": "Горьковская",
+          "line_name": "Автозаводская",
+          "station_id": "50.278",
+          "line_id": "50",
+          "lat": 56.313933,
+          "lng": 43.99482
+        },
+        "metro_stations": [
+          {
+            "station_name": "Горьковская",
+            "line_name": "Автозаводская",
+            "station_id": "50.278",
+            "line_id": "50",
+            "lat": 56.313933,
+            "lng": 43.99482
+          }
+        ],
+        "id": "18605839"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-15T05:40:51+0300",
+      "created_at": "2025-08-15T05:40:51+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123674614",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123674614?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123674614",
+      "relations": [],
+      "employer": {
+        "id": "10687830",
+        "name": "Весницкая Виктория Юрьевна",
+        "url": "https://api.hh.ru/employers/10687830",
+        "alternate_url": "https://hh.ru/employer/10687830",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1216906.jpg",
+          "90": "https://img.hhcdn.ru/employer-logo/6488069.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/6488070.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10687830",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "От кандидата требуется готовность к интенсивному, но очень интересному обучению. А также готовность к единоразовой командировке на время обучения. ",
+        "responsibility": "Скорочтение и развитие интеллекта/Ментальная арифметика. Обучение скорочтению детей и подростков от 4-х до 16 лет, в небольших группах..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно сменами по 4-6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_4",
+          "name": "4 часа"
+        },
+        {
+          "id": "HOURS_5",
+          "name": "5 часов"
+        },
+        {
+          "id": "HOURS_6",
+          "name": "6 часов"
+        },
+        {
+          "id": "FLEXIBLE",
+          "name": "По договорённости"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "SIX_ON_ONE_OFF",
+          "name": "6/1"
+        },
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        },
+        {
+          "id": "FLEXIBLE",
+          "name": "Свободный"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "124107286",
+      "premium": false,
+      "name": "Репетитор по английскому языку",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 500,
+        "to": 1200,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 500,
+        "to": 1200,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "SERVICE",
+          "name": "За услугу"
+        },
+        "frequency": {
+          "id": "MONTHLY",
+          "name": "Раз в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-15T12:55:01+0300",
+      "created_at": "2025-08-15T12:55:01+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124107286",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124107286?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124107286",
+      "relations": [],
+      "employer": {
+        "id": "12076066",
+        "name": "Ильина Надежда Анатольевна",
+        "url": "https://api.hh.ru/employers/12076066",
+        "alternate_url": "https://hh.ru/employer/12076066",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12076066",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее образование в области педагогики или лингвистики. Опыт работы в преподавании английского языка от 3 лет. Умение работать с группами...",
+        "responsibility": "Проведение онлайн-занятий по английскому языку для учеников начальной и средней школы. Адаптация учебных материалов в соответствии с уровнем и..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "FLEXIBLE",
+          "name": "По договорённости"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FLEXIBLE",
+          "name": "Свободный"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123809953",
+      "premium": false,
+      "name": "Учитель истории и обществознания",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 30000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 30000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "улица Невзоровых",
+        "building": "36/3",
+        "lat": 56.312675,
+        "lng": 44.009912,
+        "description": null,
+        "raw": "Нижний Новгород, улица Невзоровых, 36/3",
+        "metro": {
+          "station_name": "Горьковская",
+          "line_name": "Автозаводская",
+          "station_id": "50.278",
+          "line_id": "50",
+          "lat": 56.313933,
+          "lng": 43.99482
+        },
+        "metro_stations": [
+          {
+            "station_name": "Горьковская",
+            "line_name": "Автозаводская",
+            "station_id": "50.278",
+            "line_id": "50",
+            "lat": 56.313933,
+            "lng": 43.99482
+          }
+        ],
+        "id": "4381000"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-08T10:04:05+0300",
+      "created_at": "2025-08-08T10:04:05+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123809953",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123809953?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123809953",
+      "relations": [],
+      "employer": {
+        "id": "4018774",
+        "name": "МБОУ Школа № 18",
+        "url": "https://api.hh.ru/employers/4018774",
+        "alternate_url": "https://hh.ru/employer/4018774",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4018774",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее педагогическое образование или среднее педагогическое образование. Медицинская книжка.",
+        "responsibility": "Выполнение должностных обязанностей. Ведение делопроизводства в рамках своей компетенции. Работа с родителями."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123628911",
+      "premium": false,
+      "name": "Педагог дополнительного образования (раннее развитие)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 30000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 30000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "улица Героя Советского Союза Аристархова",
+        "building": "4",
+        "lat": 56.284324,
+        "lng": 43.99235,
+        "description": null,
+        "raw": "Нижний Новгород, улица Героя Советского Союза Аристархова, 4",
+        "metro": null,
+        "metro_stations": [],
+        "id": "15875164"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-05T09:29:56+0300",
+      "created_at": "2025-08-05T09:29:56+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123628911",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123628911?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123628911",
+      "relations": [],
+      "employer": {
+        "id": "11140656",
+        "name": "Кудряшова Дарья Константиновна",
+        "url": "https://api.hh.ru/employers/11140656",
+        "alternate_url": "https://hh.ru/employer/11140656",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1286648.jpg",
+          "90": "https://img.hhcdn.ru/employer-logo/6766890.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/6766891.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11140656",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы <highlighttext>педагогом</highlighttext> в детских дошкольных учреждениях. Желание развиваться. Готовность обучаться.",
+        "responsibility": "Участие в маркетинговых мероприятиях клуба (рекламные кампании, уличные праздники, фестивали). Участие в жизни клуба (собрания, тематические недели, конференции, съезды <highlighttext>педагогов</highlighttext>). "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [
+        {
+          "id": "only_saturday_and_sunday",
+          "name": "По субботам и воскресеньям"
+        }
+      ],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно сменами по 4-6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_4",
+          "name": "4 часа"
+        },
+        {
+          "id": "HOURS_6",
+          "name": "6 часов"
+        },
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "WEEKEND",
+          "name": "По выходным"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "124065875",
+      "premium": false,
+      "name": "Учитель математики",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 90000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 90000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-14T12:38:23+0300",
+      "created_at": "2025-08-14T12:38:23+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124065875",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124065875?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124065875",
+      "relations": [],
+      "employer": {
+        "id": "3563273",
+        "name": "МБОУ Школа № 69",
+        "url": "https://api.hh.ru/employers/3563273",
+        "alternate_url": "https://hh.ru/employer/3563273",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3563273",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее, профессиональное образование. Медицинская книжка. Допустимые.",
+        "responsibility": "Преподавание в средних и старших классах, подготовка к ЕГЭ,ОГЭ. Ведение документации."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    }
+  ],
+  "found": 366,
+  "pages": 19,
+  "page": 0,
+  "per_page": 20,
+  "clusters": null,
+  "arguments": null,
+  "fixes": null,
+  "suggests": null,
+  "alternate_url": "https://hh.ru/search/vacancy?area=66&enable_snippets=true&professional_role=132&search_field=name&text=teacher"
+}
