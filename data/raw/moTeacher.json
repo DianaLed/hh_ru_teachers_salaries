@@ -1,0 +1,2724 @@
+{
+  "items": [
+    {
+      "id": "124097057",
+      "premium": false,
+      "name": "Учитель физической культуры",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 130000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 130000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "коттеджный поселок Княжье Озеро",
+        "street": null,
+        "building": null,
+        "lat": 55.818478,
+        "lng": 37.046693,
+        "description": null,
+        "raw": "коттеджный поселок Княжье Озеро",
+        "metro": null,
+        "metro_stations": [],
+        "id": "398222"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-15T10:23:22+0300",
+      "created_at": "2025-08-15T10:23:22+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124097057",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124097057?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124097057",
+      "relations": [],
+      "employer": {
+        "id": "242557",
+        "name": "ГК Небо",
+        "url": "https://api.hh.ru/employers/242557",
+        "alternate_url": "https://hh.ru/employer/242557",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1301382.png",
+          "90": "https://img.hhcdn.ru/employer-logo/6825790.png",
+          "240": "https://img.hhcdn.ru/employer-logo/6825791.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=242557",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее педагогическое образование в области физической культуры. Опыт работы от 1 до 3 лет в аналогичной должности. Знание современных методик...",
+        "responsibility": "Проведение уроков физической культуры для школьников 24 часа в неделю. Разработка и реализация учебных программ и планов занятий. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123891876",
+      "premium": false,
+      "name": "Учитель английского языка",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 130000,
+        "to": 160000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 130000,
+        "to": 160000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-11T11:59:56+0300",
+      "created_at": "2025-08-11T11:59:56+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123891876",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123891876?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123891876",
+      "relations": [],
+      "employer": {
+        "id": "1119911",
+        "name": "Веретенникова Наталья",
+        "url": "https://api.hh.ru/employers/1119911",
+        "alternate_url": "https://hh.ru/employer/1119911",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1119911",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы с детьми не менее года. Высшее образование профильное. Свободное владение английским обязательно!",
+        "responsibility": "Преподавание в начальной и средней школе. Работа по образовательным и методическим программам школы с использованием зарубежных учебно-методических комплектов. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "124065743",
+      "premium": false,
+      "name": "Учитель физическойкультуры",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 91100,
+        "to": 120000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 91100,
+        "to": 120000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": null,
+        "lng": null,
+        "description": null,
+        "raw": null,
+        "metro": {
+          "station_name": "Молодежная",
+          "line_name": "Арбатско-Покровская",
+          "station_id": "3.84",
+          "line_id": "3",
+          "lat": 55.741375,
+          "lng": 37.415627
+        },
+        "metro_stations": [
+          {
+            "station_name": "Молодежная",
+            "line_name": "Арбатско-Покровская",
+            "station_id": "3.84",
+            "line_id": "3",
+            "lat": 55.741375,
+            "lng": 37.415627
+          }
+        ],
+        "id": "16804723"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-14T12:36:09+0300",
+      "created_at": "2025-08-14T12:36:09+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124065743",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124065743?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124065743",
+      "relations": [],
+      "employer": {
+        "id": "1667144",
+        "name": "ГБОУ Школа № 887",
+        "url": "https://api.hh.ru/employers/1667144",
+        "alternate_url": "https://hh.ru/employer/1667144",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1667144",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее педагогическое образование по специальности. Владение методиками и программами. Творческий подход и любовь к профессии. Стремление к профессиональному развитию.",
+        "responsibility": "Осуществляет профессиональную деятельность в соответствии с требованиями Федеральных государственных образовательных стандартов (ФГОС) начального, основного и среднего (полного) общего образования. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно сменами по 4-6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_6",
+          "name": "6 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "124101641",
+      "premium": false,
+      "name": "Учитель физической культуры",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 100000,
+        "to": 120000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 100000,
+        "to": 120000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Ратная улица",
+        "building": "6Б",
+        "lat": 55.573953,
+        "lng": 37.586706,
+        "description": null,
+        "raw": "Москва, Ратная улица, 6Б",
+        "metro": null,
+        "metro_stations": [],
+        "id": "6972893"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-15T11:29:39+0300",
+      "created_at": "2025-08-15T11:29:39+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124101641",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124101641?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124101641",
+      "relations": [],
+      "employer": {
+        "id": "5919082",
+        "name": "ГБОУ Школа № 1613",
+        "url": "https://api.hh.ru/employers/5919082",
+        "alternate_url": "https://hh.ru/employer/5919082",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5919082",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее или среднее специальное образование в области физической культуры или педагогики. Желание работать с детьми и развивать их физические способности. ",
+        "responsibility": "Проведение уроков физической культуры для школьников. Разработка и реализация учебных программ и планов занятий. Организация и проведение спортивных мероприятий и..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно сменами по 4-6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_6",
+          "name": "6 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123889745",
+      "premium": false,
+      "name": "Учитель английского языка",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 100000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 100000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Кавказский бульвар",
+        "building": "12к3",
+        "lat": 55.634075,
+        "lng": 37.666405,
+        "description": null,
+        "raw": "Москва, Кавказский бульвар, 12к3",
+        "metro": null,
+        "metro_stations": [],
+        "id": "4978129"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-11T11:34:03+0300",
+      "created_at": "2025-08-11T11:34:03+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123889745",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123889745?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123889745",
+      "relations": [],
+      "employer": {
+        "id": "5122826",
+        "name": "ГБОУ Школа № 904",
+        "url": "https://api.hh.ru/employers/5122826",
+        "alternate_url": "https://hh.ru/employer/5122826",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5122826",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее педагогическое образование по направлению подготовки \"Образование и педагогика\" или в области, соответствующей преподаваемому предмету. Знание учебных программ. ",
+        "responsibility": "Осуществляет обучение и воспитание обучающихся с учетом специфики преподаваемого предмета, проводит уроки и другие занятия в соответствии с расписанием. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "124062719",
+      "premium": false,
+      "name": "Учитель английского языка (университетский лицей 1511 Предуниверситария НИЯУ МИФИ)",
+      "department": null,
+      "has_test": true,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Пролетарский проспект",
+        "building": "6к3",
+        "lat": 55.648164,
+        "lng": 37.652175,
+        "description": null,
+        "raw": "Москва, Пролетарский проспект, 6к3",
+        "metro": null,
+        "metro_stations": [],
+        "id": "7431412"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-14T11:52:03+0300",
+      "created_at": "2025-08-14T11:52:03+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124062719",
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124062719?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124062719",
+      "relations": [],
+      "employer": {
+        "id": "84201",
+        "name": "Национальный исследовательский ядерный университет МИФИ",
+        "url": "https://api.hh.ru/employers/84201",
+        "alternate_url": "https://hh.ru/employer/84201",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=84201",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Образование - высшее специальное/высшее педагогическое ( или наличие профессиональной педагогической переподготовки). Наличие сертификата о прохождении независимой диагностики МЦКО. Знание преподаваемого предмета...",
+        "responsibility": "...английского языка в 8-11 классах в соответствии с образовательной программой профильного уровня, в соответствии с требованиями профессионального стандарта <highlighttext>учителя</highlighttext>."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "124008753",
+      "premium": false,
+      "name": "Учитель физической культуры",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 100000,
+        "to": 100000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 100000,
+        "to": 100000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Андреевская набережная",
+        "building": "2",
+        "lat": 55.711508,
+        "lng": 37.575118,
+        "description": null,
+        "raw": "Москва, Андреевская набережная, 2",
+        "metro": {
+          "station_name": "Воробьевы горы",
+          "line_name": "Сокольническая",
+          "station_id": "1.165",
+          "line_id": "1",
+          "lat": 55.709169,
+          "lng": 37.557293
+        },
+        "metro_stations": [
+          {
+            "station_name": "Воробьевы горы",
+            "line_name": "Сокольническая",
+            "station_id": "1.165",
+            "line_id": "1",
+            "lat": 55.709169,
+            "lng": 37.557293
+          },
+          {
+            "station_name": "Ленинский проспект",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.74",
+            "line_id": "6",
+            "lat": 55.70678,
+            "lng": 37.58499
+          },
+          {
+            "station_name": "Площадь Гагарина",
+            "line_name": "МЦК",
+            "station_id": "95.534",
+            "line_id": "95",
+            "lat": 55.706944,
+            "lng": 37.585833
+          }
+        ],
+        "id": "7104346"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-13T12:54:57+0300",
+      "created_at": "2025-08-13T12:54:57+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124008753",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124008753?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124008753",
+      "relations": [],
+      "employer": {
+        "id": "2976984",
+        "name": "АНОО Школа при Андреевском монастыре",
+        "url": "https://api.hh.ru/employers/2976984",
+        "alternate_url": "https://hh.ru/employer/2976984",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2976984",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее педагогическое образование. Опыт работы в должности - не менее 5 лет. Высшая или 1 квалификационная категория. Свидетельство МЦКО о прохождении...",
+        "responsibility": "Проведение уроков физической культуры (в 1 - 11 классах). Проведение уроков ОБЖ. Ведение документации по вопросам ГО и ЧС, проведение инструктажей..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FOUR_ON_THREE_OFF",
+          "name": "4/3"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "moreThan6",
+        "name": "Более 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123893345",
+      "premium": false,
+      "name": "Учитель английского языка",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 92000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 92000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Маршала Полубоярова",
+        "building": "22",
+        "lat": 55.682595,
+        "lng": 37.860019,
+        "description": null,
+        "raw": "Москва, улица Маршала Полубоярова, 22",
+        "metro": null,
+        "metro_stations": [],
+        "id": "12041175"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-11T12:16:53+0300",
+      "created_at": "2025-08-11T12:16:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123893345",
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123893345?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123893345",
+      "relations": [],
+      "employer": {
+        "id": "2490734",
+        "name": "ГБОУ Школа №1905",
+        "url": "https://api.hh.ru/employers/2490734",
+        "alternate_url": "https://hh.ru/employer/2490734",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2490734",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Требуемый опыт работы: от 1 года. Результат независимой диагностики по предмету в формате ЕГЭ, пройденной в МЦКО, не ниже высокого. ",
+        "responsibility": "Проведение уроков, внеурочных занятий в соответствии с расписанием. Разработка программно-методического обеспечения учебных дисциплин. Подготовка обучающихся к ГИА. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно сменами по 4-6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_6",
+          "name": "6 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "SIX_ON_ONE_OFF",
+          "name": "6/1"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123964311",
+      "premium": false,
+      "name": "Преподаватель английского языка",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 250000,
+        "to": 350000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 250000,
+        "to": 350000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ульяновск",
+        "street": null,
+        "building": null,
+        "lat": 54.31419,
+        "lng": 48.40313,
+        "description": null,
+        "raw": "Ульяновск",
+        "metro": null,
+        "metro_stations": [],
+        "id": "19045722"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-12T14:51:05+0300",
+      "created_at": "2025-08-12T14:51:05+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123964311",
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123964311?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123964311",
+      "relations": [],
+      "employer": {
+        "id": "12153721",
+        "name": "Бирюкова Ирина Юрьевна",
+        "url": "https://api.hh.ru/employers/12153721",
+        "alternate_url": "https://hh.ru/employer/12153721",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12153721",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее педагогическое или лингвистическое образование. Опыт преподавания английского языка не менее 3 лет. Опыт работы с детьми и взрослыми . ",
+        "responsibility": "Разработка программ обучения с учетом уровня и целей учеников. Применение современных методик и интерактивных подходов в обучении. Контроль прогресса и..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        },
+        {
+          "id": "HOURS_9",
+          "name": "9 часов"
+        },
+        {
+          "id": "HOURS_10",
+          "name": "10 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "SIX_ON_ONE_OFF",
+          "name": "6/1"
+        },
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "124025945",
+      "premium": false,
+      "name": "Преподаватель по направлениям психологии",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Тверская улица",
+        "building": "16с1",
+        "lat": 55.764551,
+        "lng": 37.606406,
+        "description": null,
+        "raw": "Москва, Тверская улица, 16с1",
+        "metro": {
+          "station_name": "Маяковская",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.80",
+          "line_id": "2",
+          "lat": 55.769808,
+          "lng": 37.596192
+        },
+        "metro_stations": [
+          {
+            "station_name": "Маяковская",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.80",
+            "line_id": "2",
+            "lat": 55.769808,
+            "lng": 37.596192
+          },
+          {
+            "station_name": "Пушкинская",
+            "line_name": "Таганско-Краснопресненская",
+            "station_id": "7.124",
+            "line_id": "7",
+            "lat": 55.765607,
+            "lng": 37.604356
+          },
+          {
+            "station_name": "Тверская",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.122",
+            "line_id": "2",
+            "lat": 55.765343,
+            "lng": 37.603918
+          },
+          {
+            "station_name": "Чеховская",
+            "line_name": "Серпуховско-Тимирязевская",
+            "station_id": "9.123",
+            "line_id": "9",
+            "lat": 55.765747,
+            "lng": 37.608493
+          }
+        ],
+        "id": "16824235"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-13T17:34:55+0300",
+      "created_at": "2025-08-13T17:34:55+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124025945",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124025945?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124025945",
+      "relations": [],
+      "employer": {
+        "id": "3349408",
+        "name": "Институт дополнительного образования",
+        "url": "https://api.hh.ru/employers/3349408",
+        "alternate_url": "https://hh.ru/employer/3349408",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1320318.png",
+          "90": "https://img.hhcdn.ru/employer-logo/6901330.png",
+          "240": "https://img.hhcdn.ru/employer-logo/6901331.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3349408",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "1. Клинический психолог / психолог-психотерапевт. 2. Психолог-консультант / практический психолог. 3. Детский / перинатальный психолог.",
+        "responsibility": "Требуются <highlighttext>преподаватели</highlighttext>-кандидаты наук для написания лекций, программ обучения, проведения вебинаров. 4. Нейропсихолог / нейропсихологическая диагностика. 5. Корпоративный / организационный психолог, HR..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123983690",
+      "premium": false,
+      "name": "Учитель английского языка в Интернат Школы ЦПМ",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 100000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 100000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Смольная улица",
+        "building": "75",
+        "lat": 55.873238,
+        "lng": 37.467302,
+        "description": null,
+        "raw": "Москва, Смольная улица, 75",
+        "metro": {
+          "station_name": "Беломорская",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.674",
+          "line_id": "2",
+          "lat": 55.8651,
+          "lng": 37.4764
+        },
+        "metro_stations": [
+          {
+            "station_name": "Беломорская",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.674",
+            "line_id": "2",
+            "lat": 55.8651,
+            "lng": 37.4764
+          },
+          {
+            "station_name": "Левобережная",
+            "line_name": "МЦД-3",
+            "station_id": "135.844",
+            "line_id": "135",
+            "lat": 55.886944,
+            "lng": 37.468611
+          },
+          {
+            "station_name": "Ховрино",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.558",
+            "line_id": "2",
+            "lat": 55.8777,
+            "lng": 37.4877
+          },
+          {
+            "station_name": "Ховрино",
+            "line_name": "МЦД-3",
+            "station_id": "135.845",
+            "line_id": "135",
+            "lat": 55.879444,
+            "lng": 37.486667
+          }
+        ],
+        "id": "19067827"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-13T00:00:35+0300",
+      "created_at": "2025-08-13T00:00:35+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123983690",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123983690?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123983690",
+      "relations": [],
+      "employer": {
+        "id": "5645403",
+        "name": "ОАНО Школа ЦПМ",
+        "url": "https://api.hh.ru/employers/5645403",
+        "alternate_url": "https://hh.ru/employer/5645403",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1139112.png",
+          "90": "https://img.hhcdn.ru/employer-logo/6177033.png",
+          "240": "https://img.hhcdn.ru/employer-logo/6177034.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5645403",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее образование (педагогика/филология/лингвистика). Опыт преподавания английского языка в школе (в т.ч. в старших классах). Опыт успешной подготовки...",
+        "responsibility": "Повышенный/экспертный уровень диагностики МЦКО по английскому языку."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "124121457",
+      "premium": false,
+      "name": "Учитель английского языка",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 85000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 85000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "2-я Пугачёвская улица",
+        "building": "6А",
+        "lat": 55.795605,
+        "lng": 37.728595,
+        "description": null,
+        "raw": "Москва, 2-я Пугачёвская улица, 6А",
+        "metro": {
+          "station_name": "Преображенская площадь",
+          "line_name": "Сокольническая",
+          "station_id": "1.117",
+          "line_id": "1",
+          "lat": 55.796322,
+          "lng": 37.713582
+        },
+        "metro_stations": [
+          {
+            "station_name": "Преображенская площадь",
+            "line_name": "Сокольническая",
+            "station_id": "1.117",
+            "line_id": "1",
+            "lat": 55.796322,
+            "lng": 37.713582
+          }
+        ],
+        "id": "17783010"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-15T16:46:48+0300",
+      "created_at": "2025-08-15T16:46:48+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124121457",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124121457?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124121457",
+      "relations": [],
+      "employer": {
+        "id": "1982949",
+        "name": "ГБОУ Школа №1505 Преображенская",
+        "url": "https://api.hh.ru/employers/1982949",
+        "alternate_url": "https://hh.ru/employer/1982949",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1982949",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "N 544н «<highlighttext>Педагог</highlighttext> (педагогическая деятельность в сфере дошкольного, начального общего, основного общего, среднего общего образования) (воспитатель, <highlighttext>учитель</highlighttext>)». ",
+        "responsibility": null
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123916839",
+      "premium": false,
+      "name": "Гувернантка/гувернер/учитель в Москве",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-11T17:43:25+0300",
+      "created_at": "2025-08-11T17:43:25+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123916839",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123916839?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123916839",
+      "relations": [],
+      "employer": {
+        "id": "4844261",
+        "name": "Polyglot Family",
+        "url": "https://api.hh.ru/employers/4844261",
+        "alternate_url": "https://hh.ru/employer/4844261",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/766830.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3508277.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/3508278.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4844261",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Личные качества: ответственная, энергичная и активная, любящая детей и свою работу. Требования: педагогическое образование, опыт работы в школе и в...",
+        "responsibility": "Основные обязанности: помощь в освоении школьной программы и выполнении домашних заданий, проведение необходимых дополнительных уроков, контроль за расписанием приходящих <highlighttext>учителей</highlighttext>. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "FLEXIBLE",
+          "name": "По договорённости"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "SIX_ON_ONE_OFF",
+          "name": "6/1"
+        },
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        },
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123903865",
+      "premium": false,
+      "name": "Учитель английского языка",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 84000,
+        "to": 100000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 84000,
+        "to": 100000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Элеваторная улица",
+        "building": "4к2",
+        "lat": 55.600501,
+        "lng": 37.655616,
+        "description": null,
+        "raw": "Москва, Элеваторная улица, 4к2",
+        "metro": {
+          "station_name": "Пражская",
+          "line_name": "Серпуховско-Тимирязевская",
+          "station_id": "9.116",
+          "line_id": "9",
+          "lat": 55.610962,
+          "lng": 37.602386
+        },
+        "metro_stations": [
+          {
+            "station_name": "Пражская",
+            "line_name": "Серпуховско-Тимирязевская",
+            "station_id": "9.116",
+            "line_id": "9",
+            "lat": 55.610962,
+            "lng": 37.602386
+          },
+          {
+            "station_name": "Царицыно",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.153",
+            "line_id": "2",
+            "lat": 55.620982,
+            "lng": 37.669612
+          },
+          {
+            "station_name": "Царицыно",
+            "line_name": "МЦД-2",
+            "station_id": "132.735",
+            "line_id": "132",
+            "lat": 55.618309,
+            "lng": 37.668846
+          }
+        ],
+        "id": "19041740"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-11T14:28:53+0300",
+      "created_at": "2025-08-11T14:28:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123903865",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123903865?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123903865",
+      "relations": [],
+      "employer": {
+        "id": "10954048",
+        "name": "ГБОУ Школа № 508",
+        "url": "https://api.hh.ru/employers/10954048",
+        "alternate_url": "https://hh.ru/employer/10954048",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10954048",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее лингвистическое образование; педагогическое образование - базовое или профессиональная переподготовка. Знание современных образовательных технологий и содержания преподаваемой дисциплины. ПК - уверенный пользователь. ",
+        "responsibility": "Обучение иностранным языкам школьников в соответствии с ФГОС. Учебная нагрузка 26 часов, из которых 2 кл - 2 ч., 3 кл..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_7",
+          "name": "7 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "124123698",
+      "premium": false,
+      "name": "Учитель английского языка в начальную школу",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 100000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 100000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": 55.75999999999371,
+        "lng": 37.63999999999997,
+        "description": null,
+        "raw": "г. Москва, 1-ый Волоколамский пр-зд, д. 9, к. 2.",
+        "metro": null,
+        "metro_stations": [],
+        "id": "362280"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-15T17:43:03+0300",
+      "created_at": "2025-08-15T17:43:03+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124123698",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124123698?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124123698",
+      "relations": [],
+      "employer": {
+        "id": "236755",
+        "name": "ОАНО МОШ Интеграция XXI век",
+        "url": "https://api.hh.ru/employers/236755",
+        "alternate_url": "https://hh.ru/employer/236755",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/185274.gif",
+          "90": "https://img.hhcdn.ru/employer-logo/885647.png",
+          "240": "https://img.hhcdn.ru/employer-logo/885648.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=236755",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Английский язык на уровне носителя (native speaker). Опыт работы с детьми младшего школьного возраста будет преимуществом. Педагогическое образование, сертификат TEFL...",
+        "responsibility": "Проведение увлекательных и интерактивных уроков английского языка для учеников начальной школы. Развитие у детей навыков разговорной речи, аудирования, чтения и..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "124006628",
+      "premium": false,
+      "name": "Учитель начальных классов",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 91100,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 91100,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-13T12:20:52+0300",
+      "created_at": "2025-08-13T12:20:52+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124006628",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124006628?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124006628",
+      "relations": [],
+      "employer": {
+        "id": "2365785",
+        "name": "ГБОУ Школа № 1362",
+        "url": "https://api.hh.ru/employers/2365785",
+        "alternate_url": "https://hh.ru/employer/2365785",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2365785",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Умение обеспечить индивидуальный и дифференцированный подход к обучающимся. Требования: Высшее образование либо среднее профессиональное образование, опыт работы в системе общего...",
+        "responsibility": "Преподавательская работа в начальных классах."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123433936",
+      "premium": false,
+      "name": "Учитель английского языка",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": null,
+        "to": 110000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": null,
+        "to": 110000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Острякова",
+        "building": "15А",
+        "lat": 55.79853,
+        "lng": 37.523294,
+        "description": null,
+        "raw": "Москва, улица Острякова, 15А",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5174301"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-30T15:38:02+0300",
+      "created_at": "2025-07-30T15:38:02+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123433936",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123433936?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123433936",
+      "relations": [],
+      "employer": {
+        "id": "1758170",
+        "name": "Московский авиационный институт (национальный исследовательский университет)",
+        "url": "https://api.hh.ru/employers/1758170",
+        "alternate_url": "https://hh.ru/employer/1758170",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1449845.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7419001.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7419002.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1758170",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Основные требования, предъявляемые к должности. Образование. Высшее по направлению деятельности (НЕ ОБЯЗАТЕЛЬНО педагогическое). Опыт работы (профессиональный/ должностной). Опыт проведения занятий...",
+        "responsibility": "Управление Довузовской подготовки. Текущие успехи проекта: отработан цикл подготовки 8-11 классов с персонализированным расписанием учеников, осуществлены два выпуска 11..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123686289",
+      "premium": false,
+      "name": "Учитель физической культуры",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 95000,
+        "to": 95000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 95000,
+        "to": 95000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Дорогобужская улица",
+        "building": "13",
+        "lat": 55.716174,
+        "lng": 37.415981,
+        "description": null,
+        "raw": "Москва, Дорогобужская улица, 13",
+        "metro": {
+          "station_name": "Славянский бульвар",
+          "line_name": "Арбатско-Покровская",
+          "station_id": "3.176",
+          "line_id": "3",
+          "lat": 55.729542,
+          "lng": 37.470973
+        },
+        "metro_stations": [
+          {
+            "station_name": "Славянский бульвар",
+            "line_name": "Арбатско-Покровская",
+            "station_id": "3.176",
+            "line_id": "3",
+            "lat": 55.729542,
+            "lng": 37.470973
+          }
+        ],
+        "id": "1949100"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-06T10:16:16+0300",
+      "created_at": "2025-08-06T10:16:16+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123686289",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123686289?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123686289",
+      "relations": [],
+      "employer": {
+        "id": "1732628",
+        "name": "Школа № 1195",
+        "url": "https://api.hh.ru/employers/1732628",
+        "alternate_url": "https://hh.ru/employer/1732628",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1732628",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "МЦКО - не ниже высокого, знание нормативных документов в сфере образования, знание ФГОС; владение ПК; активная профессиональная и жизненная позиция.",
+        "responsibility": "Проведение учебных занятий (5-11 кл) в соответствии с ФГОС. Внеурочных занятия, работа с электронным журналом, работа в МЭШ."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "124008763",
+      "premium": false,
+      "name": "Учитель английского языка",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 120000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 120000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Минская улица",
+        "building": "2Вк2",
+        "lat": 55.715849,
+        "lng": 37.505723,
+        "description": null,
+        "raw": "Москва, Минская улица, 2Вк2",
+        "metro": {
+          "station_name": "Ломоносовский проспект",
+          "line_name": "Солнцевская",
+          "station_id": "133.556",
+          "line_id": "133",
+          "lat": 55.7055,
+          "lng": 37.5225
+        },
+        "metro_stations": [
+          {
+            "station_name": "Ломоносовский проспект",
+            "line_name": "Солнцевская",
+            "station_id": "133.556",
+            "line_id": "133",
+            "lat": 55.7055,
+            "lng": 37.5225
+          },
+          {
+            "station_name": "Минская",
+            "line_name": "Солнцевская",
+            "station_id": "133.555",
+            "line_id": "133",
+            "lat": 55.7232,
+            "lng": 37.5038
+          }
+        ],
+        "id": "3825214"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-13T12:55:14+0300",
+      "created_at": "2025-08-13T12:55:14+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=124008763",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/124008763?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/124008763",
+      "relations": [],
+      "employer": {
+        "id": "4843065",
+        "name": "ОАНО Частная Школа Снегири",
+        "url": "https://api.hh.ru/employers/4843065",
+        "alternate_url": "https://hh.ru/employer/4843065",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/900629.png",
+          "90": "https://img.hhcdn.ru/employer-logo/4043203.png",
+          "240": "https://img.hhcdn.ru/employer-logo/4043204.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4843065",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее педагогическое образование по профилю. Уровень владения английским языком не меньше С1 по шкале CEFR. Стаж преподавания английского языка...",
+        "responsibility": "Преподавание английского языка в начальной и основной школе. Планирование и проведение учебных занятий с учетом метода дифференцированного подхода к учебно..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123669682",
+      "premium": false,
+      "name": "Учитель ИЗО",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 91100,
+        "to": 91100,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 91100,
+        "to": 91100,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Стромынка",
+        "building": "17",
+        "lat": 55.794776,
+        "lng": 37.696633,
+        "description": null,
+        "raw": "Москва, улица Стромынка, 17",
+        "metro": {
+          "station_name": "Преображенская площадь",
+          "line_name": "Сокольническая",
+          "station_id": "1.117",
+          "line_id": "1",
+          "lat": 55.796322,
+          "lng": 37.713582
+        },
+        "metro_stations": [
+          {
+            "station_name": "Преображенская площадь",
+            "line_name": "Сокольническая",
+            "station_id": "1.117",
+            "line_id": "1",
+            "lat": 55.796322,
+            "lng": 37.713582
+          },
+          {
+            "station_name": "Сокольники",
+            "line_name": "Сокольническая",
+            "station_id": "1.134",
+            "line_id": "1",
+            "lat": 55.789282,
+            "lng": 37.679895
+          }
+        ],
+        "id": "588101"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-08-05T17:49:32+0300",
+      "created_at": "2025-08-05T17:49:32+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123669682",
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123669682?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123669682",
+      "relations": [],
+      "employer": {
+        "id": "2024019",
+        "name": "ГБОУ гимназия №1530 Школа Ломоносова",
+        "url": "https://api.hh.ru/employers/2024019",
+        "alternate_url": "https://hh.ru/employer/2024019",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2024019",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее педагогическое образование. Опыт работы от 2 лет. Наличие справки о наличии/ отсутствии судимости. Отсутствие медицинских противопоказаний (медкнижка, медицинский осмотр...",
+        "responsibility": "Преподавание ИЗО. Внеурочная деятельность. Подготовка к участию в конкурсах."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно сменами по 4-6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_6",
+          "name": "6 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    }
+  ],
+  "found": 2367,
+  "pages": 100,
+  "page": 0,
+  "per_page": 20,
+  "clusters": null,
+  "arguments": null,
+  "fixes": null,
+  "suggests": null,
+  "alternate_url": "https://hh.ru/search/vacancy?area=1&enable_snippets=true&professional_role=132&search_field=name&text=teacher"
+}
