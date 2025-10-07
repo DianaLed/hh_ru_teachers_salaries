@@ -1,2 +1,22 @@
-# hh_ru_teachers_salaries
-📊 Teachers' Salary Analysis (HH.ru API) A data analysis project exploring salary trends for teachers in Russia, focusing on Moscow and Nizhny Novgorod. Uses HH.ru job postings to calculate averages, identify outliers, and visualize disparities.  Statistical Analysis: Compares median salaries, detects anomalies, and regional differences.
+Аналитика зарплат учителей на hh.ru
+## 📌 Описание
+
+Проект собирает вакансии учителей с сайта hh.ru для Москвы и Нижнего Новгорода, сохраняет их в формате JSON, пересобирает в csv с нужными показателями, а затем анализирует уровень зарплат в Москве и Нижнем Новгороде.
+
+## 📂 Структура проекта
+
+### Данные
+*data/processed* - вакансии в формате CSV.
+
+*data/raw* - вакансии в формате JSON.
+
+*mo/nn*- обозначение города.
+
+### Код
+*src/fetch_data.sh* - Скрипт для парсинга вакансий JSON.
+
+*src/preprocess.py* - Скрипт для обработки файлов в CSV.
+
+*src/analysis.ipynb* - Юпитер фаил с аналитикой.
+
+📦 Используемые библиотеки- requests, pathlib, pandas, matplotlib, numpy, json.
